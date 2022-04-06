@@ -7,3 +7,4 @@ for _ in range(3):
 	painter.left(120)
 
 turtle.done()
+1
